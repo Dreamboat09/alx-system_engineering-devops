@@ -1,1 +1,1 @@
-chdir_-home
+list_dir_in_long_form
