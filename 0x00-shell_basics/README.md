@@ -1,1 +1,1 @@
-mkdir_in_diff_dir
+move_file_to_a_diff_dir
