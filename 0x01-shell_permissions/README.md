@@ -1,1 +1,1 @@
-more_permission
+no_permission
