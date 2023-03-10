@@ -1,1 +1,1 @@
-copy_permission
+dir_permission
