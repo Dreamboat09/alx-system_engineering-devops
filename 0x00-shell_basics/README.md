@@ -1,1 +1,1 @@
-move_file_to_a_diff_dir
+first_delete
