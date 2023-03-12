@@ -1,1 +1,1 @@
-symbolic_link
+copy_to_parent_dir
