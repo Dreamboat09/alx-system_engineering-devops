@@ -1,1 +1,1 @@
-display_smiley
+list_content_of_a_diff_file
