@@ -1,1 +1,1 @@
-print_to_standard_output
+display_smiley
