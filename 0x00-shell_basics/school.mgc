@@ -1,3 +1,2 @@
 #!/bin/bash
-0 string SCHOOL School data
-!:mime School
+echo "*.SCHOOL:magic:SCHOOL at offset 0" > school.mgc
